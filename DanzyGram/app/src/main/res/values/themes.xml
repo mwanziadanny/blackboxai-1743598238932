@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.DanzyGram" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand colors -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status bar and system colors -->
+        <item name="android:statusBarColor">@color/status_bar</item>
+        <item name="android:navigationBarColor">@color/navigation_bar</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+
+        <!-- Background colors -->
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+
+        <!-- Error colors -->
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/white</item>
+
+        <!-- Custom attributes -->
+        <item name="textAppearanceHeadline1">@style/TextAppearance.DanzyGram.Headline1</item>
+        <item name="textAppearanceHeadline2">@style/TextAppearance.DanzyGram.Headline2</item>
+        <item name="textAppearanceHeadline3">@style/TextAppearance.DanzyGram.Headline3</item>
+        <item name="textAppearanceHeadline4">@style/TextAppearance.DanzyGram.Headline4</item>
+        <item name="textAppearanceHeadline5">@style/TextAppearance.DanzyGram.Headline5</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.DanzyGram.Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.DanzyGram.Subtitle1</item>
+        <item name="textAppearanceSubtitle2">@style/TextAppearance.DanzyGram.Subtitle2</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.DanzyGram.Body1</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.DanzyGram.Body2</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.DanzyGram.Caption</item>
+        <item name="textAppearanceOverline">@style/TextAppearance.DanzyGram.Overline</item>
+
+        <!-- Shape appearance -->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.DanzyGram.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.DanzyGram.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.DanzyGram.LargeComponent</item>
+    </style>
+
+    <!-- Shape Appearances -->
+    <style name="ShapeAppearance.DanzyGram.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <style name="ShapeAppearance.DanzyGram.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <style name="ShapeAppearance.DanzyGram.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+</resources>
