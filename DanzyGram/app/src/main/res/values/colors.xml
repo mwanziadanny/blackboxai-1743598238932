@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="primary">#FF405DE6</color>
+    <color name="primary_variant">#FF833AB4</color>
+    <color name="primary_dark">#FF2D3F9F</color>
+    <color name="accent">#FFF56040</color>
+
+    <!-- Secondary colors -->
+    <color name="secondary">#FFFD1D1D</color>
+    <color name="secondary_variant">#FFC13584</color>
+
+    <!-- Status bar and system colors -->
+    <color name="status_bar">#FF000000</color>
+    <color name="navigation_bar">#FF000000</color>
+
+    <!-- Background colors -->
+    <color name="background">#FFFFFFFF</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="dialog_background">#FFFFFFFF</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#DE000000</color>
+    <color name="text_secondary">#99000000</color>
+    <color name="text_hint">#61000000</color>
+
+    <!-- Utility colors -->
+    <color name="error">#FFB00020</color>
+    <color name="success">#FF4CAF50</color>
+    <color name="warning">#FFFFC107</color>
+    <color name="info">#FF2196F3</color>
+
+    <!-- Common colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#FF757575</color>
+    <color name="gray_light">#FFE0E0E0</color>
+    <color name="gray_dark">#FF424242</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Gradient colors -->
+    <color name="gradient_start">#FF833AB4</color>
+    <color name="gradient_center">#FFFD1D1D</color>
+    <color name="gradient_end">#FFF56040</color>
+
+    <!-- Overlay colors -->
+    <color name="scrim">#52000000</color>
+    <color name="overlay_light">#1F000000</color>
+    <color name="overlay_dark">#99000000</color>
+
+    <!-- Ripple colors -->
+    <color name="ripple_light">#1F000000</color>
+    <color name="ripple_dark">#33FFFFFF</color>
+
+    <!-- Divider colors -->
+    <color name="divider">#1F000000</color>
+    <color name="divider_dark">#1FFFFFFF</color>
+</resources>
