@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="primary">#FF405DE6</color>
+    <color name="primary_variant">#FF833AB4</color>
+    <color name="primary_dark">#FF2D3F9F</color>
+    <color name="accent">#FFF56040</color>
+
+    <!-- Secondary colors -->
+    <color name="secondary">#FFFD1D1D</color>
+    <color name="secondary_variant">#FFC13584</color>
+
+    <!-- Status bar and system colors -->
+    <color name="status_bar">#FF121212</color>
+    <color name="navigation_bar">#FF121212</color>
+
+    <!-- Background colors -->
+    <color name="background">#FF121212</color>
+    <color name="surface">#FF1E1E1E</color>
+    <color name="dialog_background">#FF1E1E1E</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_hint">#80FFFFFF</color>
+
+    <!-- Common colors -->
+    <color name="gray">#FF9E9E9E</color>
+    <color name="gray_light">#FFE0E0E0</color>
+    <color name="gray_dark">#FF212121</color>
+
+    <!-- Overlay colors -->
+    <color name="scrim">#52000000</color>
+    <color name="overlay_light">#1FFFFFFF</color>
+    <color name="overlay_dark">#99000000</color>
+
+    <!-- Ripple colors -->
+    <color name="ripple_light">#1FFFFFFF</color>
+    <color name="ripple_dark">#33FFFFFF</color>
+
+    <!-- Divider colors -->
+    <color name="divider">#1FFFFFFF</color>
+    <color name="divider_dark">#1FFFFFFF</color>
+</resources>
