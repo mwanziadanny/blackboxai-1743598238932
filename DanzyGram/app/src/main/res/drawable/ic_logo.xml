@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="80dp"
+    android:viewportWidth="200"
+    android:viewportHeight="80">
+    
+    <!-- Camera Icon -->
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M30,20h-3.17l-1.83,-2h-8l-1.83,2L12,20c-1.1,0 -2,0.9 -2,2v12c0,1.1 0.9,2 2,2h18c1.1,0 2,-0.9 2,-2V22c0,-1.1 -0.9,-2 -2,-2zM21,31c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5z"/>
+    
+    <!-- Text "DanzyGram" -->
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M50,45h100v5h-100z"/>
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M50,30h100v5h-100z"/>
+</vector>
